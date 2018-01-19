@@ -1,3 +1,11 @@
+Updated run directory for Australian (AU) nested grid. Built from NA 
+example. Original README below.
+
+19 Jan 2018
+Jenny Fisher
+jennyf@uow.edu.au
+
+
 This is the GEOS-Chem run directory for 0.25x0.3125 nested NA tropospheric
 chemistry simulation with GEOS-FP meteorology.
 
